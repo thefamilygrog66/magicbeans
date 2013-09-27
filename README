@@ -1,0 +1,26 @@
+Magic Beans (magicbeans) mod for Minetest
+
+by thefamilygrog66
+
+Description: This mod randomly spawns three different types of magic beans - running, jumping and flying - which when eaten, give the player that magical ability for 30 seconds. Because of the inherent danger of temporarily flying, jumping really high or runnng really fast, it's highly recommended that this mod is only used with 'enable damage' unchecked!
+
+Note: The default textures are 64px - if you prefer 16px, they're included as well. Simply change the texture file names (e.g. magicbeans_jumping.png --> magicbeans_jumping64.png, magicbeans_jumping16.png --> magicbeans_jumping.png, etc.) accordingly.
+
+Mod dependencies: default
+
+License: Sourcecode: WTFPL (see below) Graphics: WTFPL (see below)
+
+Thank you very much Simonster for the cool mod idea and your constant inspiration!
+
+------------------------------------------------------------------------
+
+     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                Version 2, December 2004
+Copyright (C) 2004 Sam Hocevar sam@hocevar.net
+
+Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed.
+
+        DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+You just DO WHAT THE FUCK YOU WANT TO.
