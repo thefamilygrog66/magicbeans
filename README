@@ -2,9 +2,10 @@ Magic Beans (magicbeans) mod for Minetest
 
 by thefamilygrog66
 
-Description: This mod randomly spawns three different types of magic beans - running, jumping and flying - which when eaten, give the player that magical ability for 30 seconds. Because of the inherent danger of temporarily flying, jumping really high or running really fast, it's highly recommended that this mod is only used with 'enable damage' unchecked!
+Description: This mod randomly spawns four different types of magic beans: running, jumping and flying - which when eaten, give the player that magical ability for 30 seconds - and beanstalk beans, which when planted (dropped) will grow a magic beanstalk up to the clouds! It's highly recommended that this mod is only used with 'enable damage' unchecked!
 
-Note: The default textures are 64px - if you prefer 16px, they're included as well. Simply change the texture file names (e.g. magicbeans_jumping.png --> magicbeans_jumping64.png, magicbeans_jumping16.png --> magicbeans_jumping.png, etc.) accordingly.
+Note:
+The default bean textures are 64px - if you prefer 16px, they're included as well. Simply change the texture file names (e.g. magicbeans_jumping.png --> magicbeans_jumping64.png, magicbeans_jumping16.png --> magicbeans_jumping.png, etc.) accordingly.
 
 Mod dependencies: default
 
